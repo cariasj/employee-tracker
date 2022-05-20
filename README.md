@@ -28,11 +28,11 @@ Command-line application to manage a company's employee database, using Node.js,
 - THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 
 # Installation
-npm install
-npm install inquirer
-npm install --save mysql2
-npm insall console.table --save
-command line run "node server.js"
+- npm install
+- npm install inquirer
+- npm install --save mysql2
+- npm insall console.table --save
+- command line run "node server.js"
 
 # Walkthrough Video
 https://drive.google.com/file/d/1YW3p1ZIZagz32JIDsjmS_NyaN75m7V0w/view
